@@ -1,0 +1,3 @@
+[submodule "LuoguOJ"]
+	path = LuoguOJ
+	url = git@github.com:iliyian/LuoguOJ
